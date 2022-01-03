@@ -1,4 +1,4 @@
-# EFS Demo
+# EC2 & Storage
 
 Creates one EBS-only instance and instance with an instance store. 
 Each instance has a dedicated EBS device, and a shared EFS device.
