@@ -1,0 +1,11 @@
+# terraform
+.terraform/
+.terraform.*
+terraform.*
+
+# key pair
+*.pem
+
+# other
+.DS_Store
+.idea
